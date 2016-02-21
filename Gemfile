@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 #heroku wants me to add
-gem 'rails_12factor'
+# gem 'rails_12factor'
 #store environment variables
 gem 'dotenv-rails', :groups => [:development, :test]
 # Add the Yelp API gem
