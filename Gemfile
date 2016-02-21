@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+#heroku wants me to add
+gem 'rails_12factor'
 #store environment variables
 gem 'dotenv-rails', :groups => [:development, :test]
 # Add the Yelp API gem
@@ -45,3 +47,5 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+ruby '2.2.2'
