@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
-
+#store environment variables
+gem 'dotenv-rails', :groups => [:development, :test]
+# Add the Yelp API gem
+gem 'yelp', require: 'yelp'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '>= 5.0.0.beta2', '< 5.1'
 # Use postgresql as the database for Active Record
