@@ -1,24 +1,6 @@
-## README
+## My Yelp App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Building an app for Yelp Hackathon 16 using the yelp-ruby gem, Ruby 2.2.2, and Rails 5.0.0.beta2
 
-Things you may want to cover:
+You can check it out [here](https://my-yelp-app.herokuapp.com/).
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
